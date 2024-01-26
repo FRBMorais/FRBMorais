@@ -1,7 +1,8 @@
 ### Olah 👋
 
-- 🌱 Estudante de Engenharia Aeronáutica;
-- 🔭 Atualmente estou trabalhando em pequenos projetos em Python.
+- 🌱 Engenheiro Aeronáutico;
+- 🔭 Analista de Software (2 anos).
 
 --> Trabalhos relacionados a otimização;
---> Estudando desenvolvimento web com Python (Flask, Django), SQL, HTML, CSS
+--> Desenvolvimento Web e automaçoes com Python, JV, ... ;
+--> Excel e google Sheets (VBA e Google Apps script);
