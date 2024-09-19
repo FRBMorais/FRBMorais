@@ -25,7 +25,3 @@ I am very passionate about programming, Mathematics, and Physics.
   <img align="center" alt="Matlab" src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=matlab&logoColor=white" />
 </div><br/>
 
-## Current personal Projects
-
-- **Implementing Classic Data Structures in Python**: A series of projects aimed at demonstrating the implementation and use of classic data structures using Python.
-- **Personal Blog**: Developing a personal blog to share insights on programming, technology, and my personal learning journey.
