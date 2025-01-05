@@ -2,7 +2,6 @@
 
 I am very passionate about programming, Mathematics, and Physics.
 
-[![CodeSignal](https://img.shields.io/website?label=CodeSignal.com&style=for-the-badge&url=https://app.codesignal.com/profile/frbmorais)](https://app.codesignal.com/profile/frbmorais)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC1iVG_wqtgEBb1WZygWf5Kg)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-de-morais-5930a5216/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/frbmoraisaero)
