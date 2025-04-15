@@ -3,7 +3,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FRBMorais/FRBMorais)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-de-morais-5930a5216/) 
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/frbmoraisaero) 
-[![BeeCrowd](https://img.shields.io/badge/BeeCrowd-FF9900?style=for-the-badge&logo=code&logoColor=white)](https://www.beecrowd.com.br/judge/pt/profile/frbmorais)
+[![BeeCrowd](https://img.shields.io/badge/BeeCrowd-FF9900?style=for-the-badge&logo=code&logoColor=white)](https://www.beecrowd.com.br/judge/en/profile/924068)
 
 
 <h3 align="left">👩‍💻 About Me</h3>
