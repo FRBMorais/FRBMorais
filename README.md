@@ -1,1 +1,1 @@
-## Hello! My name is Felipe Rosa 🖐️
+## Hello! I'm Felipe Rosa.
