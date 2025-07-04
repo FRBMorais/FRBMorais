@@ -15,15 +15,6 @@ I'm Felipe Rosa from Ibiá-MG<br><br>
 - ♞ In my free time, I enjoy chess and 🏃 running
 </p>
 
-<h3 align="left">🛠 Language and Tools</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" /><img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fortran/fortran-original.svg" height="40" alt="fortran logo" /><img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" /><img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo" /><img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-</div>
 
 <h3 align="left">🔥   My Stats :</h3>
 
